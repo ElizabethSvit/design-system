@@ -1,1 +1,17 @@
-{"fontName":{"family":"Proxima Nova","style":"Regular"},"fontSize":13}
+{
+  "fontName": {
+    "family": "Roboto",
+    "style": "Regular"
+  },
+  "fontSize": 12,
+  "textCase": "ORIGINAL",
+  "textDecoration": "NONE",
+  "letterSpacing": {
+    "unit": "PERCENT",
+    "value": 0
+  },
+  "lineHeight": {
+    "unit": "AUTO"
+  },
+  "textStyleId": ""
+}
