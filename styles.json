@@ -1,17 +1,1286 @@
-{
-  "fontName": {
-    "family": "Roboto",
-    "style": "Regular"
+[
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
   },
-  "fontSize": 12,
-  "textCase": "ORIGINAL",
-  "textDecoration": "NONE",
-  "letterSpacing": {
-    "unit": "PERCENT",
-    "value": 0
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
   },
-  "lineHeight": {
-    "unit": "AUTO"
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
   },
-  "textStyleId": ""
-}
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 30,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": -0.30000001192092896
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 36
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 30,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": -0.30000001192092896
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 36
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 32,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": -0.30000001192092896
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 40
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 24,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": -0.30000001192092896
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 28
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 24,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": -0.30000001192092896
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 28
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 32,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": -0.30000001192092896
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 40
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 18,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": -0.30000001192092896
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 22
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 18,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": -0.30000001192092896
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 22
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 20,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": -0.30000001192092896
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 24
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 18,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": -0.30000001192092896
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 22
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 18,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": -0.30000001192092896
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 22
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 18,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": -0.30000001192092896
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 22
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 16,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": -0.20000000298023224
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 20
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 16,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": -0.20000000298023224
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 20
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 16,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": -0.20000000298023224
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 20
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 16,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": -0.10000000149011612
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 20
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 16,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": -0.10000000149011612
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 20
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 16,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": -0.10000000149011612
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 20
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 18,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": -0.30000001192092896
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 22
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 18,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": -0.30000001192092896
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 22
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 18,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": -0.30000001192092896
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 22
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 16,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 20
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 16,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 20
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 16,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 20
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 16,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 20
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 16,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 20
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 16,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 20
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 16,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 20
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 15,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 18
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 15,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 18
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 16,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 20
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 15,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 18
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 15,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 18
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0.15000000596046448
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0.15000000596046448
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0.15000000596046448
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0.15000000596046448
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0.15000000596046448
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Bold"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0.15000000596046448
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0.15000000596046448
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0.15000000596046448
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0.15000000596046448
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 10,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0.20000000298023224
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 12
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 10,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0.20000000298023224
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 12
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 12,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0.15000000596046448
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 14
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "UPPER",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0.20000000298023224
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "UPPER",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0.20000000298023224
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Proxima Nova",
+      "style": "Regular"
+    },
+    "fontSize": 13,
+    "textCase": "UPPER",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PIXELS",
+      "value": 0.20000000298023224
+    },
+    "lineHeight": {
+      "unit": "PIXELS",
+      "value": 16
+    }
+  },
+  {
+    "fontName": {
+      "family": "Roboto",
+      "style": "Regular"
+    },
+    "fontSize": 12,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    }
+  },
+  {
+    "fontName": {
+      "family": "Roboto",
+      "style": "Regular"
+    },
+    "fontSize": 12,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    }
+  },
+  {
+    "fontName": {
+      "family": "Roboto",
+      "style": "Regular"
+    },
+    "fontSize": 12,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    }
+  },
+  {
+    "fontName": {
+      "family": "Roboto",
+      "style": "Regular"
+    },
+    "fontSize": 12,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    }
+  },
+  {
+    "fontName": {
+      "family": "Roboto",
+      "style": "Regular"
+    },
+    "fontSize": 12,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    }
+  },
+  {
+    "fontName": {
+      "family": "Roboto",
+      "style": "Regular"
+    },
+    "fontSize": 12,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    }
+  },
+  {
+    "fontName": {
+      "family": "Roboto",
+      "style": "Regular"
+    },
+    "fontSize": 12,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    }
+  },
+  {
+    "fontName": {
+      "family": "Roboto",
+      "style": "Regular"
+    },
+    "fontSize": 12,
+    "textCase": "ORIGINAL",
+    "textDecoration": "NONE",
+    "letterSpacing": {
+      "unit": "PERCENT",
+      "value": 0
+    },
+    "lineHeight": {
+      "unit": "AUTO"
+    }
+  }
+]
