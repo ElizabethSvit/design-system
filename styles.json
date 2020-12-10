@@ -2046,7 +2046,11 @@
       "id": "S:0009f2334ff1997b931cba819c8203692f050374,"
     }
   ],
-  "gridStyles": [],
+  "gridStyles": [
+    {
+      "id": "S:a558c0dadf6bcce0e8cd0a9d12b01bb3174ac6f9,"
+    }
+  ],
   "iconStyles": [
     {
       "path": [
