@@ -687,24 +687,26 @@
   ],
   "colorStyles": [
     {
-      "name": "test",
-      "paints": [
-        {
-          "type": "SOLID",
-          "visible": true,
-          "opacity": 1,
-          "blendMode": "NORMAL",
-          "color": {
-            "r": 1,
-            "g": 0.8038333058357239,
-            "b": 0.10833334922790527
+      "test": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 0.8038333058357239,
+              "b": 0.10833334922790527
+            }
           }
-        }
-      ]
+        ]
+      }
     }
   ],
   "iconStyles": [
     {
+      "name": "Vector",
       "path": [
         {
           "windingRule": "EVENODD",
