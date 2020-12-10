@@ -1,4 +1,618 @@
 {
+  "textStyles": [
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": -0.30000001192092896
+      },
+      "fontSize": 30,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": -0.30000001192092896
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 34
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": -0.30000001192092896
+      },
+      "fontSize": 30,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": -0.30000001192092896
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 34
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PERCENT",
+        "value": -0.30000001192092896
+      },
+      "fontSize": 32,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -0.30000001192092896
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 36
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": -0.30000001192092896
+      },
+      "fontSize": 24,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": -0.30000001192092896
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 28
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": -0.30000001192092896
+      },
+      "fontSize": 24,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": -0.30000001192092896
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 28
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PERCENT",
+        "value": -0.30000001192092896
+      },
+      "fontSize": 32,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -0.30000001192092896
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 36
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": -0.30000001192092896
+      },
+      "fontSize": 18,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": -0.30000001192092896
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 22
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": -0.30000001192092896
+      },
+      "fontSize": 18,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": -0.30000001192092896
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 22
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": -0.30000001192092896
+      },
+      "fontSize": 20,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": -0.30000001192092896
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 24
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": -0.30000001192092896
+      },
+      "fontSize": 18,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": -0.30000001192092896
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 22
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": -0.30000001192092896
+      },
+      "fontSize": 18,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": -0.30000001192092896
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 22
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": -0.20000000298023224
+      },
+      "fontSize": 16,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": -0.20000000298023224
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": -0.20000000298023224
+      },
+      "fontSize": 16,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": -0.20000000298023224
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PERCENT",
+        "value": -0.10000000149011612
+      },
+      "fontSize": 16,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -0.10000000149011612
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PERCENT",
+        "value": -0.10000000149011612
+      },
+      "fontSize": 16,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": -0.10000000149011612
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": -0.30000001192092896
+      },
+      "fontSize": 18,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": -0.30000001192092896
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 22
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": -0.30000001192092896
+      },
+      "fontSize": 18,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": -0.30000001192092896
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 22
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": 0
+      },
+      "fontSize": 16,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": 0
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": 0
+      },
+      "fontSize": 16,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": 0
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": 0
+      },
+      "fontSize": 16,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": 0
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": 0
+      },
+      "fontSize": 16,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": 0
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": 0
+      },
+      "fontSize": 16,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": 0
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": 0
+      },
+      "fontSize": 15,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": 0
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 18
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": 0
+      },
+      "fontSize": 16,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": 0
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": 0
+      },
+      "fontSize": 15,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": 0
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 18
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": 0.15000000596046448
+      },
+      "fontSize": 13,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": 0.15000000596046448
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 16
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": 0.15000000596046448
+      },
+      "fontSize": 13,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": 0.15000000596046448
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 16
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": 0.15000000596046448
+      },
+      "fontSize": 13,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": 0.15000000596046448
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 16
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": 0.15000000596046448
+      },
+      "fontSize": 13,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": 0.15000000596046448
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 16
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": 0.15000000596046448
+      },
+      "fontSize": 13,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": 0.15000000596046448
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 16
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": 0.15000000596046448
+      },
+      "fontSize": 13,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": 0.15000000596046448
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 16
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": 0.20000000298023224
+      },
+      "fontSize": 10,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": 0.20000000298023224
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 12
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": 0.20000000298023224
+      },
+      "fontSize": 10,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": 0.20000000298023224
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 12
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": 0.15000000596046448
+      },
+      "fontSize": 12,
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": 0.15000000596046448
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 14
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": 0.20000000298023224
+      },
+      "fontSize": 13,
+      "textCase": "UPPER",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": 0.20000000298023224
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 16
+      }
+    },
+    {
+      "fontName": {
+        "unit": "PIXELS",
+        "value": 0.20000000298023224
+      },
+      "fontSize": 13,
+      "textCase": "UPPER",
+      "textDecoration": "NONE",
+      "letterSpacing": {
+        "unit": "PIXELS",
+        "value": 0.20000000298023224
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 16
+      }
+    }
+  ],
   "colorStyles": [],
   "iconStyles": []
 }
