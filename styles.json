@@ -685,7 +685,11 @@
       }
     }
   ],
-  "colorStyles": [],
+  "colorStyles": [
+    {
+      "id": "S:f5cd44600420674e2c9f8a0e17d7a7077ebfbc2f,"
+    }
+  ],
   "iconStyles": [
     {
       "path": [
