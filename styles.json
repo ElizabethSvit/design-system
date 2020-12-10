@@ -1,5 +1,5 @@
-[
-  [
+{
+  "textStyles": [
     {
       "fontName": {
         "family": "Proxima Nova",
@@ -2041,11 +2041,11 @@
       ]
     }
   ],
-  [
+  "colorStyles": [
     {
       "id": "S:0009f2334ff1997b931cba819c8203692f050374,"
     }
   ],
-  [],
-  []
-]
+  "gridStyles": [],
+  "iconStyles": []
+}
