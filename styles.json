@@ -687,7 +687,112 @@
   ],
   "colorStyles": [
     {
-      "id": "S:f5cd44600420674e2c9f8a0e17d7a7077ebfbc2f,"
+      "name": "RBO / Large Title"
+    },
+    {
+      "name": "Web / Large Title · Mob"
+    },
+    {
+      "name": "Web / Large Title · Desktop"
+    },
+    {
+      "name": "RBO / Title 1 Bold"
+    },
+    {
+      "name": "Web / Title 1 Bold · Mob"
+    },
+    {
+      "name": "Web / Title 1 Bold · Desktop"
+    },
+    {
+      "name": "RBO / Title 2 Bold"
+    },
+    {
+      "name": "Web / Title 2 Bold · Mob"
+    },
+    {
+      "name": "Web / Title 2 Bold · Desktop"
+    },
+    {
+      "name": "RBO / Headline 1 Bold"
+    },
+    {
+      "name": "Web / Headline 1 Bold"
+    },
+    {
+      "name": "RBO / Headline 2 Bold"
+    },
+    {
+      "name": "Web / Headline 2 Bold"
+    },
+    {
+      "name": "RBO / Headline 2 Regular"
+    },
+    {
+      "name": "Web / Headline 2 Regular"
+    },
+    {
+      "name": "RBO / Button 1 Bold"
+    },
+    {
+      "name": "Web / Button 1 Bold"
+    },
+    {
+      "name": "RBO / Button 2 Bold"
+    },
+    {
+      "name": "Web / Button 2 Bold"
+    },
+    {
+      "name": "RBO / Button 2 Regular"
+    },
+    {
+      "name": "Web / Button 2 Regular"
+    },
+    {
+      "name": "RBO / Body 1 Regular"
+    },
+    {
+      "name": "Web / Body 1 Regular"
+    },
+    {
+      "name": "RBO / Body 1 Bold"
+    },
+    {
+      "name": "Web / Body 1 Bold"
+    },
+    {
+      "name": "RBO / Body 2 Regular"
+    },
+    {
+      "name": "Web / Body 2 Regular"
+    },
+    {
+      "name": "RBO / Body 2 Bold"
+    },
+    {
+      "name": "Web / Body 2 Bold"
+    },
+    {
+      "name": "RBO / Caption 1 Regular"
+    },
+    {
+      "name": "Web / Caption 1 Regular"
+    },
+    {
+      "name": "RBO / Caption 2 Regular"
+    },
+    {
+      "name": "Web / Caption 2 Regular · Mob"
+    },
+    {
+      "name": "Web / Caption 2 Regular · Desktop"
+    },
+    {
+      "name": "RBO / Caption Caps 1 Regular"
+    },
+    {
+      "name": "Web / Caption Caps 1 Regular"
     }
   ],
   "iconStyles": [
