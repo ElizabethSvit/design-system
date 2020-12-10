@@ -3,8 +3,8 @@
     {
       "RBO / Large Title": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": -0.30000001192092896
+          "family": "Proxima Nova",
+          "style": "Bold"
         },
         "fontSize": 30,
         "textCase": "ORIGINAL",
@@ -22,8 +22,8 @@
     {
       "Web / Large Title · Mob": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": -0.30000001192092896
+          "family": "Proxima Nova",
+          "style": "Bold"
         },
         "fontSize": 30,
         "textCase": "ORIGINAL",
@@ -41,8 +41,8 @@
     {
       "Web / Large Title · Desktop": {
         "fontName": {
-          "unit": "PERCENT",
-          "value": -0.30000001192092896
+          "family": "Proxima Nova",
+          "style": "Bold"
         },
         "fontSize": 32,
         "textCase": "ORIGINAL",
@@ -60,8 +60,8 @@
     {
       "RBO / Title 1 Bold": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": -0.30000001192092896
+          "family": "Proxima Nova",
+          "style": "Bold"
         },
         "fontSize": 24,
         "textCase": "ORIGINAL",
@@ -79,8 +79,8 @@
     {
       "Web / Title 1 Bold · Mob": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": -0.30000001192092896
+          "family": "Proxima Nova",
+          "style": "Bold"
         },
         "fontSize": 24,
         "textCase": "ORIGINAL",
@@ -98,8 +98,8 @@
     {
       "Web / Title 1 Bold · Desktop": {
         "fontName": {
-          "unit": "PERCENT",
-          "value": -0.30000001192092896
+          "family": "Proxima Nova",
+          "style": "Bold"
         },
         "fontSize": 32,
         "textCase": "ORIGINAL",
@@ -117,8 +117,8 @@
     {
       "RBO / Title 2 Bold": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": -0.30000001192092896
+          "family": "Proxima Nova",
+          "style": "Bold"
         },
         "fontSize": 18,
         "textCase": "ORIGINAL",
@@ -136,8 +136,8 @@
     {
       "Web / Title 2 Bold · Mob": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": -0.30000001192092896
+          "family": "Proxima Nova",
+          "style": "Bold"
         },
         "fontSize": 18,
         "textCase": "ORIGINAL",
@@ -155,8 +155,8 @@
     {
       "Web / Title 2 Bold · Desktop": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": -0.30000001192092896
+          "family": "Proxima Nova",
+          "style": "Bold"
         },
         "fontSize": 20,
         "textCase": "ORIGINAL",
@@ -174,8 +174,8 @@
     {
       "RBO / Headline 1 Bold": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": -0.30000001192092896
+          "family": "Proxima Nova",
+          "style": "Bold"
         },
         "fontSize": 18,
         "textCase": "ORIGINAL",
@@ -193,8 +193,8 @@
     {
       "Web / Headline 1 Bold": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": -0.30000001192092896
+          "family": "Proxima Nova",
+          "style": "Bold"
         },
         "fontSize": 18,
         "textCase": "ORIGINAL",
@@ -212,8 +212,8 @@
     {
       "RBO / Headline 2 Bold": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": -0.20000000298023224
+          "family": "Proxima Nova",
+          "style": "Bold"
         },
         "fontSize": 16,
         "textCase": "ORIGINAL",
@@ -231,8 +231,8 @@
     {
       "Web / Headline 2 Bold": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": -0.20000000298023224
+          "family": "Proxima Nova",
+          "style": "Bold"
         },
         "fontSize": 16,
         "textCase": "ORIGINAL",
@@ -250,8 +250,8 @@
     {
       "RBO / Headline 2 Regular": {
         "fontName": {
-          "unit": "PERCENT",
-          "value": -0.10000000149011612
+          "family": "Proxima Nova",
+          "style": "Regular"
         },
         "fontSize": 16,
         "textCase": "ORIGINAL",
@@ -269,8 +269,8 @@
     {
       "Web / Headline 2 Regular": {
         "fontName": {
-          "unit": "PERCENT",
-          "value": -0.10000000149011612
+          "family": "Proxima Nova",
+          "style": "Regular"
         },
         "fontSize": 16,
         "textCase": "ORIGINAL",
@@ -288,8 +288,8 @@
     {
       "RBO / Button 1 Bold": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": -0.30000001192092896
+          "family": "Proxima Nova",
+          "style": "Bold"
         },
         "fontSize": 18,
         "textCase": "ORIGINAL",
@@ -307,8 +307,8 @@
     {
       "Web / Button 1 Bold": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": -0.30000001192092896
+          "family": "Proxima Nova",
+          "style": "Bold"
         },
         "fontSize": 18,
         "textCase": "ORIGINAL",
@@ -326,8 +326,8 @@
     {
       "RBO / Button 2 Bold": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": 0
+          "family": "Proxima Nova",
+          "style": "Bold"
         },
         "fontSize": 16,
         "textCase": "ORIGINAL",
@@ -345,8 +345,8 @@
     {
       "Web / Button 2 Bold": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": 0
+          "family": "Proxima Nova",
+          "style": "Bold"
         },
         "fontSize": 16,
         "textCase": "ORIGINAL",
@@ -364,8 +364,8 @@
     {
       "RBO / Button 2 Regular": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": 0
+          "family": "Proxima Nova",
+          "style": "Regular"
         },
         "fontSize": 16,
         "textCase": "ORIGINAL",
@@ -383,8 +383,8 @@
     {
       "Web / Button 2 Regular": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": 0
+          "family": "Proxima Nova",
+          "style": "Regular"
         },
         "fontSize": 16,
         "textCase": "ORIGINAL",
@@ -402,8 +402,8 @@
     {
       "RBO / Body 1 Regular": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": 0
+          "family": "Proxima Nova",
+          "style": "Regular"
         },
         "fontSize": 16,
         "textCase": "ORIGINAL",
@@ -421,8 +421,8 @@
     {
       "Web / Body 1 Regular": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": 0
+          "family": "Proxima Nova",
+          "style": "Regular"
         },
         "fontSize": 15,
         "textCase": "ORIGINAL",
@@ -440,8 +440,8 @@
     {
       "RBO / Body 1 Bold": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": 0
+          "family": "Proxima Nova",
+          "style": "Bold"
         },
         "fontSize": 16,
         "textCase": "ORIGINAL",
@@ -459,8 +459,8 @@
     {
       "Web / Body 1 Bold": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": 0
+          "family": "Proxima Nova",
+          "style": "Bold"
         },
         "fontSize": 15,
         "textCase": "ORIGINAL",
@@ -478,8 +478,8 @@
     {
       "RBO / Body 2 Regular": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": 0.15000000596046448
+          "family": "Proxima Nova",
+          "style": "Regular"
         },
         "fontSize": 13,
         "textCase": "ORIGINAL",
@@ -497,8 +497,8 @@
     {
       "Web / Body 2 Regular": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": 0.15000000596046448
+          "family": "Proxima Nova",
+          "style": "Regular"
         },
         "fontSize": 13,
         "textCase": "ORIGINAL",
@@ -516,8 +516,8 @@
     {
       "RBO / Body 2 Bold": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": 0.15000000596046448
+          "family": "Proxima Nova",
+          "style": "Bold"
         },
         "fontSize": 13,
         "textCase": "ORIGINAL",
@@ -535,8 +535,8 @@
     {
       "Web / Body 2 Bold": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": 0.15000000596046448
+          "family": "Proxima Nova",
+          "style": "Bold"
         },
         "fontSize": 13,
         "textCase": "ORIGINAL",
@@ -554,8 +554,8 @@
     {
       "RBO / Caption 1 Regular": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": 0.15000000596046448
+          "family": "Proxima Nova",
+          "style": "Regular"
         },
         "fontSize": 13,
         "textCase": "ORIGINAL",
@@ -573,8 +573,8 @@
     {
       "Web / Caption 1 Regular": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": 0.15000000596046448
+          "family": "Proxima Nova",
+          "style": "Regular"
         },
         "fontSize": 13,
         "textCase": "ORIGINAL",
@@ -592,8 +592,8 @@
     {
       "RBO / Caption 2 Regular": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": 0.20000000298023224
+          "family": "Proxima Nova",
+          "style": "Regular"
         },
         "fontSize": 10,
         "textCase": "ORIGINAL",
@@ -611,8 +611,8 @@
     {
       "Web / Caption 2 Regular · Mob": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": 0.20000000298023224
+          "family": "Proxima Nova",
+          "style": "Regular"
         },
         "fontSize": 10,
         "textCase": "ORIGINAL",
@@ -630,8 +630,8 @@
     {
       "Web / Caption 2 Regular · Desktop": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": 0.15000000596046448
+          "family": "Proxima Nova",
+          "style": "Regular"
         },
         "fontSize": 12,
         "textCase": "ORIGINAL",
@@ -649,8 +649,8 @@
     {
       "RBO / Caption Caps 1 Regular": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": 0.20000000298023224
+          "family": "Proxima Nova",
+          "style": "Regular"
         },
         "fontSize": 13,
         "textCase": "UPPER",
@@ -668,8 +668,8 @@
     {
       "Web / Caption Caps 1 Regular": {
         "fontName": {
-          "unit": "PIXELS",
-          "value": 0.20000000298023224
+          "family": "Proxima Nova",
+          "style": "Regular"
         },
         "fontSize": 13,
         "textCase": "UPPER",
