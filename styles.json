@@ -693,10 +693,10 @@
             "type": "SOLID",
             "visible": true,
             "opacity": 1,
-            "blendMode": "NORMAL"
+            "blendMode": "NORMAL",
+            "color": "#ffcc1b"
           }
-        ],
-        "hexColor": "#ffcc1b"
+        ]
       }
     }
   ],
