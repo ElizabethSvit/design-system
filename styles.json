@@ -2,7 +2,7 @@
   "textStyles": [],
   "colors": [
     {
-      "profi-500 (regular)": "#ee1b39"
+      "profi-500": "#ee1b39"
     },
     {
       "profi-400": "#fc5368"
@@ -95,61 +95,61 @@
       "white-white": "#ffffff"
     },
     {
-      "white-alpha84": "rgba(255,255,255,0.8)"
+      "white-alpha84": "rgba(255,255,255,0.84)"
     },
     {
-      "white-alpha72": "rgba(255,255,255,0.7)"
+      "white-alpha72": "rgba(255,255,255,0.72)"
     },
     {
-      "white-alpha60": "rgba(255,255,255,0.6)"
+      "white-alpha60": "rgba(255,255,255,0.60)"
     },
     {
-      "white-alpha48": "rgba(255,255,255,0.5)"
+      "white-alpha48": "rgba(255,255,255,0.48)"
     },
     {
-      "white-alpha40": "rgba(255,255,255,0.4)"
+      "white-alpha40": "rgba(255,255,255,0.40)"
     },
     {
-      "white-alpha32": "rgba(255,255,255,0.3)"
+      "white-alpha32": "rgba(255,255,255,0.32)"
     },
     {
-      "white-alpha24": "rgba(255,255,255,0.2)"
+      "white-alpha24": "rgba(255,255,255,0.24)"
     },
     {
-      "white-alpha12": "rgba(255,255,255,0.1)"
+      "white-alpha12": "rgba(255,255,255,0.12)"
     },
     {
-      "white-alpha4": "rgba(255,255,255,0.0)"
+      "white-alpha4": "rgba(255,255,255,0.04)"
     },
     {
       "black-black": "#141c25"
     },
     {
-      "black-alpha84": "rgba(20,28,37,0.8)"
+      "black-alpha84": "rgba(20,28,37,0.84)"
     },
     {
-      "black-alpha72": "rgba(20,28,37,0.7)"
+      "black-alpha72": "rgba(20,28,37,0.72)"
     },
     {
-      "black-alpha60": "rgba(20,28,37,0.6)"
+      "black-alpha60": "rgba(20,28,37,0.60)"
     },
     {
-      "black-alpha48": "rgba(20,28,37,0.5)"
+      "black-alpha48": "rgba(20,28,37,0.48)"
     },
     {
-      "black-alpha40": "rgba(20,28,37,0.4)"
+      "black-alpha40": "rgba(20,28,37,0.40)"
     },
     {
-      "black-alpha32": "rgba(20,28,37,0.3)"
+      "black-alpha32": "rgba(20,28,37,0.32)"
     },
     {
-      "black-alpha24": "rgba(20,28,37,0.2)"
+      "black-alpha24": "rgba(20,28,37,0.24)"
     },
     {
-      "black-alpha12": "rgba(20,28,37,0.1)"
+      "black-alpha12": "rgba(20,28,37,0.12)"
     },
     {
-      "black-alpha4": "rgba(20,28,37,0.0)"
+      "black-alpha4": "rgba(20,28,37,0.04)"
     }
   ],
   "iconStyles": []
