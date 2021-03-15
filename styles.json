@@ -1,905 +1,155 @@
 {
   "textStyles": [],
-  "colorStyles": [
+  "colors": [
     {
-      "Profi/500 (Regular)": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.9333333373069763,
-              "g": 0.10588235408067703,
-              "b": 0.2235294133424759
-            },
-            "hexColor": "#ee1b39"
-          }
-        ]
-      }
+      "profi-500 (regular)": "#ee1b39"
     },
     {
-      "Profi / 400": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.9916666746139526,
-              "g": 0.3264235854148865,
-              "b": 0.41038626432418823
-            },
-            "hexColor": "#fc5368"
-          }
-        ]
-      }
+      "profi - 400": "#fc5368"
     },
     {
-      "Profi/300": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.9843137264251709,
-              "g": 0.6274510025978088,
-              "b": 0.6705882549285889
-            },
-            "hexColor": "#fba0ab"
-          }
-        ]
-      }
+      "profi-300": "#fba0ab"
     },
     {
-      "Profi/200": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 1,
-              "g": 0.8500000238418579,
-              "b": 0.8689320683479309
-            },
-            "hexColor": "#ffd8dd"
-          }
-        ]
-      }
+      "profi-200": "#ffd8dd"
     },
     {
-      "Profi / 100": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 1,
-              "g": 0.949999988079071,
-              "b": 0.9583333134651184
-            },
-            "hexColor": "#fff2f4"
-          }
-        ]
-      }
+      "profi - 100": "#fff2f4"
     },
     {
-      "Green/500": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0,
-              "g": 0.7803921699523926,
-              "b": 0.3607843220233917
-            },
-            "hexColor": "#00c75c"
-          }
-        ]
-      }
+      "green-500": "#00c75c"
     },
     {
-      "Green/400": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.3523437976837158,
-              "g": 0.8541666865348816,
-              "b": 0.5843423008918762
-            },
-            "hexColor": "#59d995"
-          }
-        ]
-      }
+      "green-400": "#59d995"
     },
     {
-      "Green/300": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.48235294222831726,
-              "g": 0.9176470637321472,
-              "b": 0.6823529601097107
-            },
-            "hexColor": "#7beaae"
-          }
-        ]
-      }
+      "green-300": "#7beaae"
     },
     {
-      "Green/200": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.6857812404632568,
-              "g": 0.9624999761581421,
-              "b": 0.8137115240097046
-            },
-            "hexColor": "#aef5cf"
-          }
-        ]
-      }
+      "green-200": "#aef5cf"
     },
     {
-      "Green/100": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.92578125,
-              "g": 0.987500011920929,
-              "b": 0.9566406011581421
-            },
-            "hexColor": "#ecfbf3"
-          }
-        ]
-      }
+      "green-100": "#ecfbf3"
     },
     {
-      "Blue/500": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0,
-              "g": 0.4588235318660736,
-              "b": 1
-            },
-            "hexColor": "#0075ff"
-          }
-        ]
-      }
+      "blue-500": "#0075ff"
     },
     {
-      "Blue/400": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.3046875,
-              "g": 0.5950368642807007,
-              "b": 0.9375
-            },
-            "hexColor": "#4d97ef"
-          }
-        ]
-      }
+      "blue-400": "#4d97ef"
     },
     {
-      "Blue/300": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.501960813999176,
-              "g": 0.7215686440467834,
-              "b": 0.9764705896377563
-            },
-            "hexColor": "#80b8f9"
-          }
-        ]
-      }
+      "blue-300": "#80b8f9"
     },
     {
-      "Blue/200": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.7166666984558105,
-              "g": 0.8466667532920837,
-              "b": 1
-            },
-            "hexColor": "#b6d7ff"
-          }
-        ]
-      }
+      "blue-200": "#b6d7ff"
     },
     {
-      "Blue/100": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.9291666746139526,
-              "g": 0.9616667032241821,
-              "b": 1
-            },
-            "hexColor": "#ecf5ff"
-          }
-        ]
-      }
+      "blue-100": "#ecf5ff"
     },
     {
-      "Yellow/500": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 1,
-              "g": 0.6349999308586121,
-              "b": 0.08749997615814209
-            },
-            "hexColor": "#ffa116"
-          }
-        ]
-      }
+      "yellow-500": "#ffa116"
     },
     {
-      "Yellow/400": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 1,
-              "g": 0.7466666102409363,
-              "b": 0.36666667461395264
-            },
-            "hexColor": "#ffbe5d"
-          }
-        ]
-      }
+      "yellow-400": "#ffbe5d"
     },
     {
-      "Yellow/300": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.9833333492279053,
-              "g": 0.8208103179931641,
-              "b": 0.495763897895813
-            },
-            "hexColor": "#fad17e"
-          }
-        ]
-      }
+      "yellow-300": "#fad17e"
     },
     {
-      "Yellow/200": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 1,
-              "g": 0.879833459854126,
-              "b": 0.5708333253860474
-            },
-            "hexColor": "#ffe091"
-          }
-        ]
-      }
+      "yellow-200": "#ffe091"
     },
     {
-      "Yellow/100": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 1,
-              "g": 0.9486666917800903,
-              "b": 0.8166666626930237
-            },
-            "hexColor": "#fff1d0"
-          }
-        ]
-      }
+      "yellow-100": "#fff1d0"
     },
     {
-      "Grey/500": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.4911458194255829,
-              "g": 0.5121093988418579,
-              "b": 0.574999988079071
-            },
-            "hexColor": "#7d8292"
-          }
-        ]
-      }
+      "grey-500": "#7d8292"
     },
     {
-      "Grey/400": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.7635242938995361,
-              "g": 0.7832170128822327,
-              "b": 0.8291666507720947
-            },
-            "hexColor": "#c2c7d3"
-          }
-        ]
-      }
+      "grey-400": "#c2c7d3"
     },
     {
-      "Grey/300": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.9019607901573181,
-              "g": 0.9137254953384399,
-              "b": 0.9411764740943909
-            },
-            "hexColor": "#e6e9f0"
-          }
-        ]
-      }
+      "grey-300": "#e6e9f0"
     },
     {
-      "Grey/200": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.9490196108818054,
-              "g": 0.95686274766922,
-              "b": 0.9725490212440491
-            },
-            "hexColor": "#f2f4f8"
-          }
-        ]
-      }
+      "grey-200": "#f2f4f8"
     },
     {
-      "Grey/100": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.9686274528503418,
-              "g": 0.9725490212440491,
-              "b": 0.9764705896377563
-            },
-            "hexColor": "#f7f8f9"
-          }
-        ]
-      }
+      "grey-100": "#f7f8f9"
     },
     {
-      "Purple/500": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.5878758430480957,
-              "g": 0.18682289123535156,
-              "b": 0.8791666626930237
-            },
-            "hexColor": "#952fe0"
-          }
-        ]
-      }
+      "purple-500": "#952fe0"
     },
     {
-      "Purple/400": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.7248127460479736,
-              "g": 0.40329861640930176,
-              "b": 0.9583333134651184
-            },
-            "hexColor": "#b866f4"
-          }
-        ]
-      }
+      "purple-400": "#b866f4"
     },
     {
-      "Purple/300": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.8052963614463806,
-              "g": 0.6003298759460449,
-              "b": 0.9541666507720947
-            },
-            "hexColor": "#cd99f3"
-          }
-        ]
-      }
+      "purple-300": "#cd99f3"
     },
     {
-      "Purple/200": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.9151753783226013,
-              "g": 0.8098611235618591,
-              "b": 0.9916666746139526
-            },
-            "hexColor": "#e9cefc"
-          }
-        ]
-      }
+      "purple-200": "#e9cefc"
     },
     {
-      "Purple / 100": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.97307288646698,
-              "g": 0.9544791579246521,
-              "b": 0.9916666746139526
-            },
-            "hexColor": "#f8f3fc"
-          }
-        ]
-      }
+      "purple - 100": "#f8f3fc"
     },
     {
-      "White/White": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 1,
-              "g": 1,
-              "b": 1
-            },
-            "hexColor": "#ffffff"
-          }
-        ]
-      }
+      "white-white": "#ffffff"
     },
     {
-      "White/Alpha84": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 0.8399999737739563,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 1,
-              "g": 1,
-              "b": 1
-            },
-            "hexColor": "#ffffff"
-          }
-        ]
-      }
+      "white-alpha84": "#ffffff"
     },
     {
-      "White/Alpha72": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 0.7200000286102295,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 1,
-              "g": 1,
-              "b": 1
-            },
-            "hexColor": "#ffffff"
-          }
-        ]
-      }
+      "white-alpha72": "#ffffff"
     },
     {
-      "White/Alpha60": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 0.6000000238418579,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 1,
-              "g": 1,
-              "b": 1
-            },
-            "hexColor": "#ffffff"
-          }
-        ]
-      }
+      "white-alpha60": "#ffffff"
     },
     {
-      "White/Alpha48": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 0.47999998927116394,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 1,
-              "g": 1,
-              "b": 1
-            },
-            "hexColor": "#ffffff"
-          }
-        ]
-      }
+      "white-alpha48": "#ffffff"
     },
     {
-      "White/Alpha40": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 0.4000000059604645,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 1,
-              "g": 1,
-              "b": 1
-            },
-            "hexColor": "#ffffff"
-          }
-        ]
-      }
+      "white-alpha40": "#ffffff"
     },
     {
-      "White/Alpha32": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 0.3199999928474426,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 1,
-              "g": 1,
-              "b": 1
-            },
-            "hexColor": "#ffffff"
-          }
-        ]
-      }
+      "white-alpha32": "#ffffff"
     },
     {
-      "White/Alpha24": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 0.23999999463558197,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 1,
-              "g": 1,
-              "b": 1
-            },
-            "hexColor": "#ffffff"
-          }
-        ]
-      }
+      "white-alpha24": "#ffffff"
     },
     {
-      "White/Alpha12": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 0.11999999731779099,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 1,
-              "g": 1,
-              "b": 1
-            },
-            "hexColor": "#ffffff"
-          }
-        ]
-      }
+      "white-alpha12": "#ffffff"
     },
     {
-      "White / Alpha4": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 0.03999999910593033,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 1,
-              "g": 1,
-              "b": 1
-            },
-            "hexColor": "#ffffff"
-          }
-        ]
-      }
+      "white - alpha4": "#ffffff"
     },
     {
-      "Black/Black": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 1,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.0784313753247261,
-              "g": 0.10980392247438431,
-              "b": 0.14509804546833038
-            },
-            "hexColor": "#141c25"
-          }
-        ]
-      }
+      "black-black": "#141c25"
     },
     {
-      "Black / Alpha84": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 0.8399999737739563,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.0784313753247261,
-              "g": 0.10980392247438431,
-              "b": 0.14509804546833038
-            },
-            "hexColor": "#141c25"
-          }
-        ]
-      }
+      "black - alpha84": "#141c25"
     },
     {
-      "Black / Alpha72": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 0.7200000286102295,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.0784313753247261,
-              "g": 0.10980392247438431,
-              "b": 0.14509804546833038
-            },
-            "hexColor": "#141c25"
-          }
-        ]
-      }
+      "black - alpha72": "#141c25"
     },
     {
-      "Black / Alpha60": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 0.6000000238418579,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.0784313753247261,
-              "g": 0.10980392247438431,
-              "b": 0.14509804546833038
-            },
-            "hexColor": "#141c25"
-          }
-        ]
-      }
+      "black - alpha60": "#141c25"
     },
     {
-      "Black / Alpha48": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 0.47999998927116394,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.0784313753247261,
-              "g": 0.10980392247438431,
-              "b": 0.14509804546833038
-            },
-            "hexColor": "#141c25"
-          }
-        ]
-      }
+      "black - alpha48": "#141c25"
     },
     {
-      "Black / Alpha40": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 0.4000000059604645,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.0784313753247261,
-              "g": 0.10980392247438431,
-              "b": 0.14509804546833038
-            },
-            "hexColor": "#141c25"
-          }
-        ]
-      }
+      "black - alpha40": "#141c25"
     },
     {
-      "Black / Alpha32": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 0.3199999928474426,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.0784313753247261,
-              "g": 0.10980392247438431,
-              "b": 0.14509804546833038
-            },
-            "hexColor": "#141c25"
-          }
-        ]
-      }
+      "black - alpha32": "#141c25"
     },
     {
-      "Black / Alpha24": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 0.23999999463558197,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.0784313753247261,
-              "g": 0.10980392247438431,
-              "b": 0.14509804546833038
-            },
-            "hexColor": "#141c25"
-          }
-        ]
-      }
+      "black - alpha24": "#141c25"
     },
     {
-      "Black / Alpha12": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 0.11999999731779099,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.0784313753247261,
-              "g": 0.10980392247438431,
-              "b": 0.14509804546833038
-            },
-            "hexColor": "#141c25"
-          }
-        ]
-      }
+      "black - alpha12": "#141c25"
     },
     {
-      "Black / Alpha4": {
-        "paints": [
-          {
-            "type": "SOLID",
-            "visible": true,
-            "opacity": 0.03999999910593033,
-            "blendMode": "NORMAL",
-            "color": {
-              "r": 0.0784313753247261,
-              "g": 0.10980392247438431,
-              "b": 0.14509804546833038
-            },
-            "hexColor": "#141c25"
-          }
-        ]
-      }
+      "black - alpha4": "#141c25"
     }
   ],
   "iconStyles": []
