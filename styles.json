@@ -5,7 +5,7 @@
       "profi-500 (regular)": "#ee1b39"
     },
     {
-      "profi - 400": "#fc5368"
+      "profi-400": "#fc5368"
     },
     {
       "profi-300": "#fba0ab"
@@ -14,7 +14,7 @@
       "profi-200": "#ffd8dd"
     },
     {
-      "profi - 100": "#fff2f4"
+      "profi-100": "#fff2f4"
     },
     {
       "green-500": "#00c75c"
@@ -89,7 +89,7 @@
       "purple-200": "#e9cefc"
     },
     {
-      "purple - 100": "#f8f3fc"
+      "purple-100": "#f8f3fc"
     },
     {
       "white-white": "#ffffff"
@@ -119,37 +119,37 @@
       "white-alpha12": "#ffffff"
     },
     {
-      "white - alpha4": "#ffffff"
+      "white-alpha4": "#ffffff"
     },
     {
       "black-black": "#141c25"
     },
     {
-      "black - alpha84": "#141c25"
+      "black-alpha84": "#141c25"
     },
     {
-      "black - alpha72": "#141c25"
+      "black-alpha72": "#141c25"
     },
     {
-      "black - alpha60": "#141c25"
+      "black-alpha60": "#141c25"
     },
     {
-      "black - alpha48": "#141c25"
+      "black-alpha48": "#141c25"
     },
     {
-      "black - alpha40": "#141c25"
+      "black-alpha40": "#141c25"
     },
     {
-      "black - alpha32": "#141c25"
+      "black-alpha32": "#141c25"
     },
     {
-      "black - alpha24": "#141c25"
+      "black-alpha24": "#141c25"
     },
     {
-      "black - alpha12": "#141c25"
+      "black-alpha12": "#141c25"
     },
     {
-      "black - alpha4": "#141c25"
+      "black-alpha4": "#141c25"
     }
   ],
   "iconStyles": []
