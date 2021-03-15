@@ -1,729 +1,906 @@
 {
-  "textStyles": [
-    {
-      "RBO / Large Title": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Bold"
-        },
-        "fontSize": 30,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": -0.30000001192092896
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 34
-        }
-      }
-    },
-    {
-      "Web / Large Title � Mob": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Bold"
-        },
-        "fontSize": 30,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": -0.30000001192092896
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 34
-        }
-      }
-    },
-    {
-      "Web / Large Title � Desktop": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Bold"
-        },
-        "fontSize": 32,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PERCENT",
-          "value": -0.30000001192092896
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 36
-        }
-      }
-    },
-    {
-      "RBO / Title 1 Bold": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Bold"
-        },
-        "fontSize": 24,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": -0.30000001192092896
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 28
-        }
-      }
-    },
-    {
-      "Web / Title 1 Bold � Mob": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Bold"
-        },
-        "fontSize": 24,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": -0.30000001192092896
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 28
-        }
-      }
-    },
-    {
-      "Web / Title 1 Bold � Desktop": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Bold"
-        },
-        "fontSize": 32,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PERCENT",
-          "value": -0.30000001192092896
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 36
-        }
-      }
-    },
-    {
-      "RBO / Title 2 Bold": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Bold"
-        },
-        "fontSize": 18,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": -0.30000001192092896
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 22
-        }
-      }
-    },
-    {
-      "Web / Title 2 Bold � Mob": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Bold"
-        },
-        "fontSize": 18,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": -0.30000001192092896
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 22
-        }
-      }
-    },
-    {
-      "Web / Title 2 Bold � Desktop": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Bold"
-        },
-        "fontSize": 20,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": -0.30000001192092896
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 24
-        }
-      }
-    },
-    {
-      "RBO / Headline 1 Bold": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Bold"
-        },
-        "fontSize": 18,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": -0.30000001192092896
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 22
-        }
-      }
-    },
-    {
-      "Web / Headline 1 Bold": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Bold"
-        },
-        "fontSize": 18,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": -0.30000001192092896
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 22
-        }
-      }
-    },
-    {
-      "RBO / Headline 2 Bold": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Bold"
-        },
-        "fontSize": 16,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": -0.20000000298023224
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 20
-        }
-      }
-    },
-    {
-      "Web / Headline 2 Bold": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Bold"
-        },
-        "fontSize": 16,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": -0.20000000298023224
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 20
-        }
-      }
-    },
-    {
-      "RBO / Headline 2 Regular": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Regular"
-        },
-        "fontSize": 16,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PERCENT",
-          "value": -0.10000000149011612
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 20
-        }
-      }
-    },
-    {
-      "Web / Headline 2 Regular": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Regular"
-        },
-        "fontSize": 16,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PERCENT",
-          "value": -0.10000000149011612
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 20
-        }
-      }
-    },
-    {
-      "RBO / Button 1 Bold": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Bold"
-        },
-        "fontSize": 18,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": -0.30000001192092896
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 22
-        }
-      }
-    },
-    {
-      "Web / Button 1 Bold": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Bold"
-        },
-        "fontSize": 18,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": -0.30000001192092896
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 22
-        }
-      }
-    },
-    {
-      "RBO / Button 2 Bold": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Bold"
-        },
-        "fontSize": 16,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": 0
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 20
-        }
-      }
-    },
-    {
-      "Web / Button 2 Bold": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Bold"
-        },
-        "fontSize": 16,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": 0
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 20
-        }
-      }
-    },
-    {
-      "RBO / Button 2 Regular": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Regular"
-        },
-        "fontSize": 16,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": 0
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 20
-        }
-      }
-    },
-    {
-      "Web / Button 2 Regular": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Regular"
-        },
-        "fontSize": 16,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": 0
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 20
-        }
-      }
-    },
-    {
-      "RBO / Body 1 Regular": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Regular"
-        },
-        "fontSize": 16,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": 0
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 20
-        }
-      }
-    },
-    {
-      "Web / Body 1 Regular": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Regular"
-        },
-        "fontSize": 15,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": 0
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 18
-        }
-      }
-    },
-    {
-      "RBO / Body 1 Bold": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Bold"
-        },
-        "fontSize": 16,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": 0
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 20
-        }
-      }
-    },
-    {
-      "Web / Body 1 Bold": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Bold"
-        },
-        "fontSize": 15,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": 0
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 18
-        }
-      }
-    },
-    {
-      "RBO / Body 2 Regular": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Regular"
-        },
-        "fontSize": 13,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": 0.15000000596046448
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 16
-        }
-      }
-    },
-    {
-      "Web / Body 2 Regular": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Regular"
-        },
-        "fontSize": 13,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": 0.15000000596046448
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 16
-        }
-      }
-    },
-    {
-      "RBO / Body 2 Bold": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Bold"
-        },
-        "fontSize": 13,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": 0.15000000596046448
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 16
-        }
-      }
-    },
-    {
-      "Web / Body 2 Bold": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Bold"
-        },
-        "fontSize": 13,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": 0.15000000596046448
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 16
-        }
-      }
-    },
-    {
-      "RBO / Caption 1 Regular": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Regular"
-        },
-        "fontSize": 13,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": 0.15000000596046448
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 16
-        }
-      }
-    },
-    {
-      "Web / Caption 1 Regular": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Regular"
-        },
-        "fontSize": 13,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": 0.15000000596046448
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 16
-        }
-      }
-    },
-    {
-      "RBO / Caption 2 Regular": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Regular"
-        },
-        "fontSize": 10,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": 0.20000000298023224
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 12
-        }
-      }
-    },
-    {
-      "Web / Caption 2 Regular � Mob": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Regular"
-        },
-        "fontSize": 10,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": 0.20000000298023224
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 12
-        }
-      }
-    },
-    {
-      "Web / Caption 2 Regular � Desktop": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Regular"
-        },
-        "fontSize": 12,
-        "textCase": "ORIGINAL",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": 0.15000000596046448
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 14
-        }
-      }
-    },
-    {
-      "RBO / Caption Caps 1 Regular": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Regular"
-        },
-        "fontSize": 13,
-        "textCase": "UPPER",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": 0.20000000298023224
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 16
-        }
-      }
-    },
-    {
-      "Web / Caption Caps 1 Regular": {
-        "fontName": {
-          "family": "Proxima Nova",
-          "style": "Regular"
-        },
-        "fontSize": 13,
-        "textCase": "UPPER",
-        "textDecoration": "NONE",
-        "letterSpacing": {
-          "unit": "PIXELS",
-          "value": 0.20000000298023224
-        },
-        "lineHeight": {
-          "unit": "PIXELS",
-          "value": 16
-        }
-      }
-    }
-  ],
+  "textStyles": [],
   "colorStyles": [
     {
-      "test": {
+      "Profi/500 (Regular)": {
         "paints": [
           {
             "type": "SOLID",
             "visible": true,
             "opacity": 1,
             "blendMode": "NORMAL",
-            "color": "#ffcc1b"
+            "color": {
+              "r": 0.9333333373069763,
+              "g": 0.10588235408067703,
+              "b": 0.2235294133424759
+            },
+            "hexColor": "#ee1b39"
+          }
+        ]
+      }
+    },
+    {
+      "Profi / 400": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.9916666746139526,
+              "g": 0.3264235854148865,
+              "b": 0.41038626432418823
+            },
+            "hexColor": "#fc5368"
+          }
+        ]
+      }
+    },
+    {
+      "Profi/300": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.9843137264251709,
+              "g": 0.6274510025978088,
+              "b": 0.6705882549285889
+            },
+            "hexColor": "#fba0ab"
+          }
+        ]
+      }
+    },
+    {
+      "Profi/200": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 0.8500000238418579,
+              "b": 0.8689320683479309
+            },
+            "hexColor": "#ffd8dd"
+          }
+        ]
+      }
+    },
+    {
+      "Profi / 100": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 0.949999988079071,
+              "b": 0.9583333134651184
+            },
+            "hexColor": "#fff2f4"
+          }
+        ]
+      }
+    },
+    {
+      "Green/500": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0,
+              "g": 0.7803921699523926,
+              "b": 0.3607843220233917
+            },
+            "hexColor": "#00c75c"
+          }
+        ]
+      }
+    },
+    {
+      "Green/400": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.3523437976837158,
+              "g": 0.8541666865348816,
+              "b": 0.5843423008918762
+            },
+            "hexColor": "#59d995"
+          }
+        ]
+      }
+    },
+    {
+      "Green/300": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.48235294222831726,
+              "g": 0.9176470637321472,
+              "b": 0.6823529601097107
+            },
+            "hexColor": "#7beaae"
+          }
+        ]
+      }
+    },
+    {
+      "Green/200": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.6857812404632568,
+              "g": 0.9624999761581421,
+              "b": 0.8137115240097046
+            },
+            "hexColor": "#aef5cf"
+          }
+        ]
+      }
+    },
+    {
+      "Green/100": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.92578125,
+              "g": 0.987500011920929,
+              "b": 0.9566406011581421
+            },
+            "hexColor": "#ecfbf3"
+          }
+        ]
+      }
+    },
+    {
+      "Blue/500": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0,
+              "g": 0.4588235318660736,
+              "b": 1
+            },
+            "hexColor": "#0075ff"
+          }
+        ]
+      }
+    },
+    {
+      "Blue/400": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.3046875,
+              "g": 0.5950368642807007,
+              "b": 0.9375
+            },
+            "hexColor": "#4d97ef"
+          }
+        ]
+      }
+    },
+    {
+      "Blue/300": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.501960813999176,
+              "g": 0.7215686440467834,
+              "b": 0.9764705896377563
+            },
+            "hexColor": "#80b8f9"
+          }
+        ]
+      }
+    },
+    {
+      "Blue/200": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.7166666984558105,
+              "g": 0.8466667532920837,
+              "b": 1
+            },
+            "hexColor": "#b6d7ff"
+          }
+        ]
+      }
+    },
+    {
+      "Blue/100": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.9291666746139526,
+              "g": 0.9616667032241821,
+              "b": 1
+            },
+            "hexColor": "#ecf5ff"
+          }
+        ]
+      }
+    },
+    {
+      "Yellow/500": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 0.6349999308586121,
+              "b": 0.08749997615814209
+            },
+            "hexColor": "#ffa116"
+          }
+        ]
+      }
+    },
+    {
+      "Yellow/400": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 0.7466666102409363,
+              "b": 0.36666667461395264
+            },
+            "hexColor": "#ffbe5d"
+          }
+        ]
+      }
+    },
+    {
+      "Yellow/300": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.9833333492279053,
+              "g": 0.8208103179931641,
+              "b": 0.495763897895813
+            },
+            "hexColor": "#fad17e"
+          }
+        ]
+      }
+    },
+    {
+      "Yellow/200": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 0.879833459854126,
+              "b": 0.5708333253860474
+            },
+            "hexColor": "#ffe091"
+          }
+        ]
+      }
+    },
+    {
+      "Yellow/100": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 0.9486666917800903,
+              "b": 0.8166666626930237
+            },
+            "hexColor": "#fff1d0"
+          }
+        ]
+      }
+    },
+    {
+      "Grey/500": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.4911458194255829,
+              "g": 0.5121093988418579,
+              "b": 0.574999988079071
+            },
+            "hexColor": "#7d8292"
+          }
+        ]
+      }
+    },
+    {
+      "Grey/400": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.7635242938995361,
+              "g": 0.7832170128822327,
+              "b": 0.8291666507720947
+            },
+            "hexColor": "#c2c7d3"
+          }
+        ]
+      }
+    },
+    {
+      "Grey/300": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.9019607901573181,
+              "g": 0.9137254953384399,
+              "b": 0.9411764740943909
+            },
+            "hexColor": "#e6e9f0"
+          }
+        ]
+      }
+    },
+    {
+      "Grey/200": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.9490196108818054,
+              "g": 0.95686274766922,
+              "b": 0.9725490212440491
+            },
+            "hexColor": "#f2f4f8"
+          }
+        ]
+      }
+    },
+    {
+      "Grey/100": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.9686274528503418,
+              "g": 0.9725490212440491,
+              "b": 0.9764705896377563
+            },
+            "hexColor": "#f7f8f9"
+          }
+        ]
+      }
+    },
+    {
+      "Purple/500": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.5878758430480957,
+              "g": 0.18682289123535156,
+              "b": 0.8791666626930237
+            },
+            "hexColor": "#952fe0"
+          }
+        ]
+      }
+    },
+    {
+      "Purple/400": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.7248127460479736,
+              "g": 0.40329861640930176,
+              "b": 0.9583333134651184
+            },
+            "hexColor": "#b866f4"
+          }
+        ]
+      }
+    },
+    {
+      "Purple/300": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.8052963614463806,
+              "g": 0.6003298759460449,
+              "b": 0.9541666507720947
+            },
+            "hexColor": "#cd99f3"
+          }
+        ]
+      }
+    },
+    {
+      "Purple/200": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.9151753783226013,
+              "g": 0.8098611235618591,
+              "b": 0.9916666746139526
+            },
+            "hexColor": "#e9cefc"
+          }
+        ]
+      }
+    },
+    {
+      "Purple / 100": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.97307288646698,
+              "g": 0.9544791579246521,
+              "b": 0.9916666746139526
+            },
+            "hexColor": "#f8f3fc"
+          }
+        ]
+      }
+    },
+    {
+      "White/White": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "hexColor": "#ffffff"
+          }
+        ]
+      }
+    },
+    {
+      "White/Alpha84": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 0.8399999737739563,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "hexColor": "#ffffff"
+          }
+        ]
+      }
+    },
+    {
+      "White/Alpha72": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 0.7200000286102295,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "hexColor": "#ffffff"
+          }
+        ]
+      }
+    },
+    {
+      "White/Alpha60": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 0.6000000238418579,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "hexColor": "#ffffff"
+          }
+        ]
+      }
+    },
+    {
+      "White/Alpha48": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 0.47999998927116394,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "hexColor": "#ffffff"
+          }
+        ]
+      }
+    },
+    {
+      "White/Alpha40": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 0.4000000059604645,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "hexColor": "#ffffff"
+          }
+        ]
+      }
+    },
+    {
+      "White/Alpha32": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 0.3199999928474426,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "hexColor": "#ffffff"
+          }
+        ]
+      }
+    },
+    {
+      "White/Alpha24": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 0.23999999463558197,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "hexColor": "#ffffff"
+          }
+        ]
+      }
+    },
+    {
+      "White/Alpha12": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 0.11999999731779099,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "hexColor": "#ffffff"
+          }
+        ]
+      }
+    },
+    {
+      "White / Alpha4": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 0.03999999910593033,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "hexColor": "#ffffff"
+          }
+        ]
+      }
+    },
+    {
+      "Black/Black": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.0784313753247261,
+              "g": 0.10980392247438431,
+              "b": 0.14509804546833038
+            },
+            "hexColor": "#141c25"
+          }
+        ]
+      }
+    },
+    {
+      "Black / Alpha84": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 0.8399999737739563,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.0784313753247261,
+              "g": 0.10980392247438431,
+              "b": 0.14509804546833038
+            },
+            "hexColor": "#141c25"
+          }
+        ]
+      }
+    },
+    {
+      "Black / Alpha72": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 0.7200000286102295,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.0784313753247261,
+              "g": 0.10980392247438431,
+              "b": 0.14509804546833038
+            },
+            "hexColor": "#141c25"
+          }
+        ]
+      }
+    },
+    {
+      "Black / Alpha60": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 0.6000000238418579,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.0784313753247261,
+              "g": 0.10980392247438431,
+              "b": 0.14509804546833038
+            },
+            "hexColor": "#141c25"
+          }
+        ]
+      }
+    },
+    {
+      "Black / Alpha48": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 0.47999998927116394,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.0784313753247261,
+              "g": 0.10980392247438431,
+              "b": 0.14509804546833038
+            },
+            "hexColor": "#141c25"
+          }
+        ]
+      }
+    },
+    {
+      "Black / Alpha40": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 0.4000000059604645,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.0784313753247261,
+              "g": 0.10980392247438431,
+              "b": 0.14509804546833038
+            },
+            "hexColor": "#141c25"
+          }
+        ]
+      }
+    },
+    {
+      "Black / Alpha32": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 0.3199999928474426,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.0784313753247261,
+              "g": 0.10980392247438431,
+              "b": 0.14509804546833038
+            },
+            "hexColor": "#141c25"
+          }
+        ]
+      }
+    },
+    {
+      "Black / Alpha24": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 0.23999999463558197,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.0784313753247261,
+              "g": 0.10980392247438431,
+              "b": 0.14509804546833038
+            },
+            "hexColor": "#141c25"
+          }
+        ]
+      }
+    },
+    {
+      "Black / Alpha12": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 0.11999999731779099,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.0784313753247261,
+              "g": 0.10980392247438431,
+              "b": 0.14509804546833038
+            },
+            "hexColor": "#141c25"
+          }
+        ]
+      }
+    },
+    {
+      "Black / Alpha4": {
+        "paints": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 0.03999999910593033,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.0784313753247261,
+              "g": 0.10980392247438431,
+              "b": 0.14509804546833038
+            },
+            "hexColor": "#141c25"
           }
         ]
       }
     }
   ],
-  "iconStyles": [
-    {
-      "name": "Vector",
-      "path": [
-        {
-          "windingRule": "EVENODD",
-          "data": "M 10.99997615814209 13.579999923706055 C 8.129976272583008 13.579999923706055 6.7099761962890625 12.120000839233398 5.99997615814209 8.100000381469727 C 4.99997615814209 5.080000400543213 5.039976119995117 1.25 8.019976615905762 1.1699999570846558 C 8.329976081848145 0.4599999785423279 9.58997631072998 0 11.049976348876953 0 C 14.099976539611816 0 18.02997589111328 2.020000457763672 15.99997615814209 8.100000381469727 C 15.279975891113281 12.120000839233398 13.869976043701172 13.579999923706055 10.99997615814209 13.579999923706055 Z M 8.069975852966309 2.6600000858306885 C 7.589975833892822 2.680000066757202 7.409976005554199 2.8399999141693115 7.289976119995117 3.0199999809265137 C 6.74997615814209 3.7899999618530273 6.799976348876953 5.690000057220459 7.3999762535095215 7.539999961853027 C 7.429975986480713 7.630000114440918 7.459975719451904 7.730000019073486 7.479975700378418 7.829999923706055 C 8.179975509643555 11.779999732971191 9.379976272583008 12.079999923706055 10.99997615814209 12.079999923706055 C 12.619976043701172 12.079999923706055 13.819976806640625 11.770000457763672 14.519976615905762 7.829999923706055 C 14.529976844787598 7.730000019073486 14.559976577758789 7.630000114440918 14.599976539611816 7.539999961853027 C 15.059976577758789 6.139999866485596 15.389976501464844 4.25 14.469976425170898 2.9700000286102295 C 13.689976692199707 1.8899999856948853 12.189976692199707 1.5 11.049976348876953 1.5 C 10.119976043701172 1.5 9.519976615905762 1.7300000190734863 9.349976539611816 1.8600000143051147 C 9.099976539611816 2.3399999141693115 8.609975814819336 2.640000104904175 8.069975852966309 2.6600000858306885 Z"
-        },
-        {
-          "windingRule": "EVENODD",
-          "data": "M 9.100000381469727 15.080078125 L 12.899999618530273 15.080078125 C 19.529998779296875 15.080078125 22 17.450077056884766 22 24.080078125 L 0 24.080078125 C 0 17.450077056884766 2.4800004959106445 15.080078125 9.100000381469727 15.080078125 Z M 12.899999618530273 16.580078125 L 9.100000381469727 16.580078125 C 3.820000171661377 16.580078125 1.8599998950958252 18.020078659057617 1.5499999523162842 22.580078125 L 20.450000762939453 22.580078125 C 20.130001068115234 18.020078659057617 18.18000030517578 16.580078125 12.899999618530273 16.580078125 Z"
-        }
-      ],
-      "paints": [
-        {
-          "type": "SOLID",
-          "visible": true,
-          "opacity": 1,
-          "blendMode": "NORMAL",
-          "color": "#7d8089"
-        }
-      ],
-      "width": 22,
-      "height": 24.080078125
-    }
-  ]
+  "iconStyles": []
 }
