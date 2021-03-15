@@ -95,61 +95,61 @@
       "white-white": "#ffffff"
     },
     {
-      "white-alpha84": "#ffffff"
+      "white-alpha84": "rgba(255,255,255,0.8399999737739563)"
     },
     {
-      "white-alpha72": "#ffffff"
+      "white-alpha72": "rgba(255,255,255,0.7200000286102295)"
     },
     {
-      "white-alpha60": "#ffffff"
+      "white-alpha60": "rgba(255,255,255,0.6000000238418579)"
     },
     {
-      "white-alpha48": "#ffffff"
+      "white-alpha48": "rgba(255,255,255,0.47999998927116394)"
     },
     {
-      "white-alpha40": "#ffffff"
+      "white-alpha40": "rgba(255,255,255,0.4000000059604645)"
     },
     {
-      "white-alpha32": "#ffffff"
+      "white-alpha32": "rgba(255,255,255,0.3199999928474426)"
     },
     {
-      "white-alpha24": "#ffffff"
+      "white-alpha24": "rgba(255,255,255,0.23999999463558197)"
     },
     {
-      "white-alpha12": "#ffffff"
+      "white-alpha12": "rgba(255,255,255,0.11999999731779099)"
     },
     {
-      "white-alpha4": "#ffffff"
+      "white-alpha4": "rgba(255,255,255,0.03999999910593033)"
     },
     {
       "black-black": "#141c25"
     },
     {
-      "black-alpha84": "#141c25"
+      "black-alpha84": "rgba(20,28,37,0.8399999737739563)"
     },
     {
-      "black-alpha72": "#141c25"
+      "black-alpha72": "rgba(20,28,37,0.7200000286102295)"
     },
     {
-      "black-alpha60": "#141c25"
+      "black-alpha60": "rgba(20,28,37,0.6000000238418579)"
     },
     {
-      "black-alpha48": "#141c25"
+      "black-alpha48": "rgba(20,28,37,0.47999998927116394)"
     },
     {
-      "black-alpha40": "#141c25"
+      "black-alpha40": "rgba(20,28,37,0.4000000059604645)"
     },
     {
-      "black-alpha32": "#141c25"
+      "black-alpha32": "rgba(20,28,37,0.3199999928474426)"
     },
     {
-      "black-alpha24": "#141c25"
+      "black-alpha24": "rgba(20,28,37,0.23999999463558197)"
     },
     {
-      "black-alpha12": "#141c25"
+      "black-alpha12": "rgba(20,28,37,0.11999999731779099)"
     },
     {
-      "black-alpha4": "#141c25"
+      "black-alpha4": "rgba(20,28,37,0.03999999910593033)"
     }
   ],
   "iconStyles": []
