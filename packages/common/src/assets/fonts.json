@@ -1,47 +1,51 @@
 {
-  "title": {
-    "s": {
-      "fontFamily": "SF Pro Display",
-      "lineHeight": "20px",
-      "letterSpacing": "0.24px",
-      "fontSize": 16
+  "fonts": {
+    "title": {
+      "s": {
+        "fontFamily": "SF Pro Display",
+        "lineHeight": "20px",
+        "letterSpacing": "0.24px",
+        "fontSize": 16
+      }
+    },
+    "headline": {
+      "m": {
+        "fontFamily": "SF Pro Display",
+        "lineHeight": "20px",
+        "letterSpacing": "-0.12px",
+        "fontSize": 16
+      }
+    },
+    "button": {
+      "s": {
+        "fontFamily": "SF Pro Display",
+        "lineHeight": "20px",
+        "letterSpacing": "0.16px",
+        "fontSize": 15
+      }
+    },
+    "body": {
+      "m": {
+        "fontFamily": "SF Pro Display",
+        "lineHeight": "20px",
+        "letterSpacing": "-0.16px",
+        "fontSize": 15
+      }
+    },
+    "caption": {
+      "m": {
+        "fontFamily": "SF Pro Display",
+        "lineHeight": "16px",
+        "letterSpacing": "0.32px",
+        "fontSize": 12
+      }
     }
   },
-  "headline": {
-    "m": {
-      "fontFamily": "SF Pro Display",
-      "lineHeight": "20px",
-      "letterSpacing": "-0.12px",
-      "fontSize": 16
+  "weights": {
+    "weight": {
+      "bold": "bold",
+      "medium": "500",
+      "regular": "normal"
     }
-  },
-  "button": {
-    "s": {
-      "fontFamily": "SF Pro Display",
-      "lineHeight": "20px",
-      "letterSpacing": "0.16px",
-      "fontSize": 15
-    }
-  },
-  "body": {
-    "m": {
-      "fontFamily": "SF Pro Display",
-      "lineHeight": "20px",
-      "letterSpacing": "-0.16px",
-      "fontSize": 15
-    }
-  },
-  "caption": {
-    "m": {
-      "fontFamily": "SF Pro Display",
-      "lineHeight": "16px",
-      "letterSpacing": "0.32px",
-      "fontSize": 12
-    }
-  },
-  "weight": {
-    "bold": "bold",
-    "medium": "500",
-    "regular": "normal"
   }
 }
