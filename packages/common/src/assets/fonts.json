@@ -1,85 +1,85 @@
 {
-  "fonts": {
-    "title": {
-      "l": {
-        "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", 'Segoe UI Emoji', 'Segoe UI Symbol'",
-        "lineHeight": "28px",
-        "letterSpacing": "0.08px",
-        "fontSize": 24
+  fonts: {
+    title: {
+      l: {
+        fontFamily: -apple-system, BlinkMacSystemFont, \Segoe UI\, Roboto, Helvetica, Arial, sans-serif, \Apple Color Emoji\, \Segoe UI Emoji\, \Segoe UI Symbol\,
+        lineHeight: 28px,
+        letterSpacing: 0.08px,
+        fontSize: 24
       },
-      "m": {
-        "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", 'Segoe UI Emoji', 'Segoe UI Symbol'",
-        "lineHeight": "24px",
-        "letterSpacing": "0.16px",
-        "fontSize": 20
+      m: {
+        fontFamily: -apple-system, BlinkMacSystemFont, \Segoe UI\, Roboto, Helvetica, Arial, sans-serif, \Apple Color Emoji\, \Segoe UI Emoji\, \Segoe UI Symbol\,
+        lineHeight: 24px,
+        letterSpacing: 0.16px,
+        fontSize: 20
       },
-      "s": {
-        "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", 'Segoe UI Emoji', 'Segoe UI Symbol'",
-        "lineHeight": "20px",
-        "letterSpacing": "0.24px",
-        "fontSize": 16
+      s: {
+        fontFamily: -apple-system, BlinkMacSystemFont, \Segoe UI\, Roboto, Helvetica, Arial, sans-serif, \Apple Color Emoji\, \Segoe UI Emoji\, \Segoe UI Symbol\,
+        lineHeight: 20px,
+        letterSpacing: 0.24px,
+        fontSize: 16
       }
     },
-    "headline": {
-      "l": {
-        "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", 'Segoe UI Emoji', 'Segoe UI Symbol'",
-        "lineHeight": "24px",
-        "letterSpacing": "-0.16px",
-        "fontSize": 18
+    headline: {
+      l: {
+        fontFamily: -apple-system, BlinkMacSystemFont, \Segoe UI\, Roboto, Helvetica, Arial, sans-serif, \Apple Color Emoji\, \Segoe UI Emoji\, \Segoe UI Symbol\,
+        lineHeight: 24px,
+        letterSpacing: -0.16px,
+        fontSize: 18
       },
-      "m": {
-        "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", 'Segoe UI Emoji', 'Segoe UI Symbol'",
-        "lineHeight": "20px",
-        "letterSpacing": "-0.12px",
-        "fontSize": 16
+      m: {
+        fontFamily: -apple-system, BlinkMacSystemFont, \Segoe UI\, Roboto, Helvetica, Arial, sans-serif, \Apple Color Emoji\, \Segoe UI Emoji\, \Segoe UI Symbol\,
+        lineHeight: 20px,
+        letterSpacing: -0.12px,
+        fontSize: 16
       }
     },
-    "button": {
-      "l": {
-        "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", 'Segoe UI Emoji', 'Segoe UI Symbol'",
-        "lineHeight": "24px",
-        "letterSpacing": "0.24px",
-        "fontSize": 18
+    button: {
+      l: {
+        fontFamily: -apple-system, BlinkMacSystemFont, \Segoe UI\, Roboto, Helvetica, Arial, sans-serif, \Apple Color Emoji\, \Segoe UI Emoji\, \Segoe UI Symbol\,
+        lineHeight: 24px,
+        letterSpacing: 0.24px,
+        fontSize: 18
       },
-      "m": {
-        "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", 'Segoe UI Emoji', 'Segoe UI Symbol'",
-        "lineHeight": "20px",
-        "letterSpacing": "0.16px",
-        "fontSize": 16
+      m: {
+        fontFamily: -apple-system, BlinkMacSystemFont, \Segoe UI\, Roboto, Helvetica, Arial, sans-serif, \Apple Color Emoji\, \Segoe UI Emoji\, \Segoe UI Symbol\,
+        lineHeight: 20px,
+        letterSpacing: 0.16px,
+        fontSize: 16
       },
-      "s": {
-        "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", 'Segoe UI Emoji', 'Segoe UI Symbol'",
-        "lineHeight": "20px",
-        "letterSpacing": "0.16px",
-        "fontSize": 15
+      s: {
+        fontFamily: -apple-system, BlinkMacSystemFont, \Segoe UI\, Roboto, Helvetica, Arial, sans-serif, \Apple Color Emoji\, \Segoe UI Emoji\, \Segoe UI Symbol\,
+        lineHeight: 20px,
+        letterSpacing: 0.16px,
+        fontSize: 15
       }
     },
-    "body": {
-      "m": {
-        "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", 'Segoe UI Emoji', 'Segoe UI Symbol'",
-        "lineHeight": "20px",
-        "letterSpacing": "-0.16px",
-        "fontSize": 15
+    body: {
+      m: {
+        fontFamily: -apple-system, BlinkMacSystemFont, \Segoe UI\, Roboto, Helvetica, Arial, sans-serif, \Apple Color Emoji\, \Segoe UI Emoji\, \Segoe UI Symbol\,
+        lineHeight: 20px,
+        letterSpacing: -0.16px,
+        fontSize: 15
       }
     },
-    "caption": {
-      "l": {
-        "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", 'Segoe UI Emoji', 'Segoe UI Symbol'",
-        "lineHeight": "16px",
-        "letterSpacing": "0.12px",
-        "fontSize": 14
+    caption: {
+      l: {
+        fontFamily: -apple-system, BlinkMacSystemFont, \Segoe UI\, Roboto, Helvetica, Arial, sans-serif, \Apple Color Emoji\, \Segoe UI Emoji\, \Segoe UI Symbol\,
+        lineHeight: 16px,
+        letterSpacing: 0.12px,
+        fontSize: 14
       },
-      "m": {
-        "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", 'Segoe UI Emoji', 'Segoe UI Symbol'",
-        "lineHeight": "16px",
-        "letterSpacing": "0.32px",
-        "fontSize": 12
+      m: {
+        fontFamily: -apple-system, BlinkMacSystemFont, \Segoe UI\, Roboto, Helvetica, Arial, sans-serif, \Apple Color Emoji\, \Segoe UI Emoji\, \Segoe UI Symbol\,
+        lineHeight: 16px,
+        letterSpacing: 0.32px,
+        fontSize: 12
       }
     }
   },
-  "weight": {
-    "bold": "bold",
-    "medium": "500",
-    "regular": "normal"
+  weight: {
+    bold: bold,
+    medium: 500,
+    regular: normal
   }
 }
