@@ -41,11 +41,9 @@
       }
     }
   },
-  "weights": {
-    "weight": {
-      "bold": "bold",
-      "medium": "500",
-      "regular": "normal"
-    }
+  "weight": {
+    "bold": "bold",
+    "medium": "500",
+    "regular": "normal"
   }
 }
