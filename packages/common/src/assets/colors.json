@@ -1,3 +1,5 @@
 {
-  "colors": {}
+  "colors": {
+    "uncolored": "#010101"
+  }
 }
